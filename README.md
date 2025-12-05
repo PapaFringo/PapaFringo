@@ -1,11 +1,11 @@
 # 👋 Hi, I'm Stefan – This is the Way.
 
 ## 🧑‍💻 About Me
-- 🎓 IKT-Student @ FH Technikum Wien  
+- 🎓 ICT-Student 
 - 🛠️ DevOps & Kubernetes Enthusiast  
 - 💻 C#, Java & Python Developer  
 - 🐧 Linux Lover (Arch btw.)  
-- 🎾 Tennisplayer who can defeat any Pinguin on the court 😄  
+- 🎾 Tennisplayer 
 - ⭐ Aspiring Open-Source Contributor  
 
 ---
@@ -25,8 +25,6 @@ Linux (Arch, Ubuntu), Git, VS Code, JetBrains Rider/IntelliJ
 
 ## 🌌 Motto
 > *“This is the Way.”*  
-I believe in clean code, open collaboration, continuous learning —  
-and occasionally spending too much time customizing my Linux setup.
 
 ---
 
@@ -35,14 +33,3 @@ and occasionally spending too much time customizing my Linux setup.
 ➡️ Starting to explore open-source contribution paths.  
 
 Stay tuned — more repos coming soon! ⚡
-
----
-
-## 🤝 Connect with Me
-- 💼 LinkedIn: *optional – kann ich dir erstellen*  
-- 📧 Email: *füge deine Mail ein*
-
----
-
-Thanks for stopping by.  
-**May the Force be with your CPU cycles!**
